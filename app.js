@@ -29,4 +29,5 @@ function someFunc(e) {
     e.preventDefault();
 }
 
-link.addEventListener("click", someFunc);
+link.addEventListener("click", someFunc); 
+//declared function separately
